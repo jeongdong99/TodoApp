@@ -11,4 +11,5 @@ Todo-APP 만들기
 - [x] ~~페이지를 새로고침 해도 데이터가 지속될 수 있게 합니다.(localStorage)~~
       
 ## 🎥영상
-![ds](https://github.com/jeongdong99/TodoApp/assets/93365714/101d99f9-a1a3-43d4-bf36-00a184d2290d)
+
+![adsf-ezgif com-video-to-gif-converter](https://github.com/jeongdong99/TodoApp/assets/93365714/ae3e468e-9010-4267-928e-e191fca2fe29)
